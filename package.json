@@ -1,0 +1,25 @@
+{
+  "name": "debug-standard-version",
+  "version": "1.0.0",
+  "description": "debug issue standard version runs into when running on branch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHANGELOG-bot/debug-standard-version.git"
+  },
+  "keywords": [
+    "standard-version"
+  ],
+  "author": "Ben Coe <ben@npmjs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHANGELOG-bot/debug-standard-version/issues"
+  },
+  "homepage": "https://github.com/CHANGELOG-bot/debug-standard-version#readme",
+  "devDependencies": {
+    "standard-version": "^3.0.0"
+  }
+}

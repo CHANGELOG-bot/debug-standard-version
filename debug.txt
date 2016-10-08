@@ -1,2 +1,3 @@
 * added first line to debug log.
 * added a second line to the debug log.
+* added third line to debug log.

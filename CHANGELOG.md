@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/CHANGELOG-bot/debug-standard-version/compare/v2.0.0...v2.0.1) (2016-10-09)
+
+
+### Bug Fixes
+
+* the fifth line we've added is a patch ([05b7794](https://github.com/CHANGELOG-bot/debug-standard-version/commit/05b7794))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/CHANGELOG-bot/debug-standard-version/compare/v1.1.0...v2.0.0) (2016-10-09)
 

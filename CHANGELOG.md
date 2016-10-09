@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/CHANGELOG-bot/debug-standard-version/compare/v1.1.0...v2.0.0) (2016-10-09)
+
+
+### Features
+
+* added a fourth line ([#4](https://github.com/CHANGELOG-bot/debug-standard-version/issues/4)) ([b36e3c7](https://github.com/CHANGELOG-bot/debug-standard-version/commit/b36e3c7))
+
+
+### BREAKING CHANGES
+
+* for some reason the fourth line is breaking
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/CHANGELOG-bot/debug-standard-version/compare/v1.0.0...v1.1.0) (2016-10-09)
 

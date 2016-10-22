@@ -5,3 +5,4 @@
 * a fifth line, this is just a patch.
 * a sixth line merged the regular way.
 * create another commit.
+* a breaking change.
